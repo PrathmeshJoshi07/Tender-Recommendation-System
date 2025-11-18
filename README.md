@@ -56,6 +56,7 @@ Tender On Time is an AI-powered tender search platform developed by xAI that ena
 4. Configure environment variables:
    - Copy `.env.example` to `.env`
    - Update the variables in `.env` with your settings
+     
 
 5. Initialize the database:
    ```
@@ -70,6 +71,7 @@ Tender On Time is an AI-powered tender search platform developed by xAI that ena
 
 6. Start Elasticsearch:
    Make sure Elasticsearch is running on your system or in a Docker container.
+
 
 7. Run the application:
    ```
@@ -140,7 +142,7 @@ Tender On Time is an AI-powered tender search platform developed by xAI that ena
 
 All API endpoints are protected with token-based authentication. Include the following header in all requests:
 ```
-Authorization: Bearer T#nde0o43kl^4opkSD
+Authorization: Bearer T#
 ```
 
 ## Contributing
